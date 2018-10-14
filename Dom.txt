@@ -1,0 +1,13 @@
+
+
+
+div(id=wrapper)
+ div (id=content)
+  div(class=article)
+   div（class=tags） (ul 2\3,class='category')
+    div (class=list-wp)-----包含所有电影。
+       a (class=item  href=info_link)
+            div (class=cover-wp)
+	 img(src=cover_link)
+            p（span class=title）(span class=rate)-------get_text（）
+		
